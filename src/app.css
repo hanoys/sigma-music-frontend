@@ -1,0 +1,4 @@
+.input-style {
+    display: flex;
+    padding: 0.2em;          /* Внутренние отступы формы */
+}
